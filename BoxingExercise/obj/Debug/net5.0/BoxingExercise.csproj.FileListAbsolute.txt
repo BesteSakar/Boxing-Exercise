@@ -1,0 +1,16 @@
+C:\Users\beste\Desktop\FormDersleri-1\BoxingExercise\bin\Debug\net5.0\BoxingExercise.exe
+C:\Users\beste\Desktop\FormDersleri-1\BoxingExercise\bin\Debug\net5.0\BoxingExercise.deps.json
+C:\Users\beste\Desktop\FormDersleri-1\BoxingExercise\bin\Debug\net5.0\BoxingExercise.runtimeconfig.json
+C:\Users\beste\Desktop\FormDersleri-1\BoxingExercise\bin\Debug\net5.0\BoxingExercise.runtimeconfig.dev.json
+C:\Users\beste\Desktop\FormDersleri-1\BoxingExercise\bin\Debug\net5.0\BoxingExercise.dll
+C:\Users\beste\Desktop\FormDersleri-1\BoxingExercise\bin\Debug\net5.0\BoxingExercise.pdb
+C:\Users\beste\Desktop\FormDersleri-1\BoxingExercise\obj\Debug\net5.0\BoxingExercise.csproj.AssemblyReference.cache
+C:\Users\beste\Desktop\FormDersleri-1\BoxingExercise\obj\Debug\net5.0\BoxingExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beste\Desktop\FormDersleri-1\BoxingExercise\obj\Debug\net5.0\BoxingExercise.AssemblyInfoInputs.cache
+C:\Users\beste\Desktop\FormDersleri-1\BoxingExercise\obj\Debug\net5.0\BoxingExercise.AssemblyInfo.cs
+C:\Users\beste\Desktop\FormDersleri-1\BoxingExercise\obj\Debug\net5.0\BoxingExercise.csproj.CoreCompileInputs.cache
+C:\Users\beste\Desktop\FormDersleri-1\BoxingExercise\obj\Debug\net5.0\BoxingExercise.dll
+C:\Users\beste\Desktop\FormDersleri-1\BoxingExercise\obj\Debug\net5.0\refint\BoxingExercise.dll
+C:\Users\beste\Desktop\FormDersleri-1\BoxingExercise\obj\Debug\net5.0\BoxingExercise.pdb
+C:\Users\beste\Desktop\FormDersleri-1\BoxingExercise\obj\Debug\net5.0\BoxingExercise.genruntimeconfig.cache
+C:\Users\beste\Desktop\FormDersleri-1\BoxingExercise\obj\Debug\net5.0\ref\BoxingExercise.dll
